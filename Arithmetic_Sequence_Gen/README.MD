@@ -22,5 +22,5 @@ The output will be:
 - [ 5 8 11 14 17 20 23 26 ]
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/G-alileo/Scientific_Computing/main/Assets/Arithmetic_Sequence.png" alt="Backend Binary Rain" width="100%" height="300" />
+  <img src="https://raw.githubusercontent.com/G-alileo/Scientific_Computing/main/Assets/Arithmetic_Sequence.png" alt="Backend Binary Rain"/>
 </p>
