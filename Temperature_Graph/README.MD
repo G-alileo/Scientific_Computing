@@ -15,7 +15,7 @@ The output is a line graph with:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/G-alileo/Scientific_Computing/main/Assets/temperature_graph.png" alt="Backend Binary Rain" />
+  <img src="https://raw.githubusercontent.com/G-alileo/Scientific_Computing/main/Assets/temperature_graph.png" />
 </p>
 
 ## 🧠 How It Works
