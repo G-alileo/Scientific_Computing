@@ -10,5 +10,5 @@ This technique is a basic form of Riemann sum approximation.
 ### Example Output
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/G-alileo/Scientific_Computing/main/Assets/volume_under_the_surface.png" alt="Backend Binary Rain" />
+  <img src="https://raw.githubusercontent.com/G-alileo/Scientific_Computing/main/Assets/volume_under_the_surface.png" />
 </p>
